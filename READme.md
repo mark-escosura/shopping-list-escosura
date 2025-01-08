@@ -45,8 +45,8 @@ A simple and intuitive shopping list application where users can add, remove, an
 
 Clone this project to your local machine:
 
-    git clone https://github.com/your-username/shopping-list.git
-    cd shopping-list
+    git clone https://github.com/mark-escosura/shopping-list-escosura.git
+    cd shopping-list-escosura
 
 2. Open the Project
    • Open the index.html file in your browser to view the application.
