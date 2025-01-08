@@ -57,3 +57,5 @@ Clone this project to your local machine:
 ## 🌟 Demo
 
 Live Demo on Netlify
+<br>
+[listmygroceries.netlify.app](https://listmygroceries.netlify.app)
